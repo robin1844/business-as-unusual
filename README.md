@@ -28,3 +28,14 @@ Then open `http://localhost:8000`.
 ## Deployment
 
 The site is designed for GitHub Pages and requires no build step.
+
+## Heading editorial standard
+
+Every directive must have a unique faux-official heading. For new additions:
+
+- Prefer two to four words; fewer words are better when meaning survives.
+- Reinterpret the situation through dry corporate language rather than summarising it.
+- Avoid repeating prominent words or phrases from the directive itself.
+- Keep the connection inferable with a little thought; that delayed recognition is part of the joke.
+- Do not reveal or paraphrase the punchline.
+- Read the heading aloud with the directive because screen readers announce both.
