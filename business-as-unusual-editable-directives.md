@@ -30,7 +30,7 @@ Whenever someone presses a lift button—any button—say, “Excellent choice.�
 
 **Bit**
 
-When a lift arrives, gesture grandly towards it and say, “Your transport awaits.”
+When you are waiting for a lift with a colleague and it arrives, gesture grandly towards it and say, “Your transport awaits.”
 
 ---
 
@@ -41,7 +41,7 @@ When a lift arrives, gesture grandly towards it and say, “Your transport await
 
 **Bit**
 
-As the lift doors close, quietly say, “And so it begins.”
+When you are sharing a lift with other people, wait until the doors begin to close, then quietly say, “And so it begins.”
 
 ---
 
@@ -52,7 +52,7 @@ As the lift doors close, quietly say, “And so it begins.”
 
 **Bit**
 
-Whenever a lift reaches a floor, say, “This is us,” even if you aren’t getting out.
+When riding in a lift with other people, say, “This is us,” whenever it reaches a floor—even though you make no move to get out.
 
 ---
 
@@ -74,7 +74,7 @@ As someone gets out of a lift, say, “Good luck out there.”
 
 **Bit**
 
-When leaving a completely silent lift, say, “Lovely talking to you all.”
+When leaving a lift after an entirely silent journey with other passengers, say, “Lovely talking to you all.”
 
 ---
 
@@ -96,7 +96,7 @@ When someone holds the lift for you, say, “You’ve restored my faith in the s
 
 **Bit**
 
-If an empty lift arrives, inspect it and say, “Perfect—the delegation hasn’t arrived.”
+When you are waiting with a colleague and an empty lift arrives, inspect it and say, “Perfect—the delegation hasn’t arrived.”
 
 ---
 
@@ -107,7 +107,7 @@ If an empty lift arrives, inspect it and say, “Perfect—the delegation hasn�
 
 **Bit**
 
-As a lift begins moving, nod approvingly and say, “Textbook departure.”
+As a lift begins moving with other passengers aboard, nod approvingly and say, “Textbook departure.”
 
 ---
 
@@ -118,7 +118,7 @@ As a lift begins moving, nod approvingly and say, “Textbook departure.”
 
 **Bit**
 
-When lift doors reopen for a late arrival, announce, “We have a late entry!”
+When lift doors reopen for a late arrival while you and others wait inside, announce, “We have a late entry!”
 
 ---
 
@@ -129,7 +129,7 @@ When lift doors reopen for a late arrival, announce, “We have a late entry!”
 
 **Bit**
 
-At the end of a lift journey, say, “Thank you for flying with us.”
+At the end of a lift journey, say to the remaining passengers, “Thank you for flying with us.”
 
 ---
 
@@ -151,7 +151,7 @@ When someone selects the same floor as you, say, “Ah—a fellow strategist.”
 
 **Bit**
 
-Whenever an automatic door opens, quietly say, “It knows.”
+When approaching automatic doors with a colleague, wait for them to open and quietly say, “It knows.”
 
 ---
 
@@ -173,7 +173,7 @@ When someone holds a door for you, say, “I won’t forget this.”
 
 **Bit**
 
-When walking through an open door, say, “The access negotiations were successful.”
+When someone holds a door open for you, walk through and say, “The access negotiations were successful.”
 
 ---
 
@@ -261,7 +261,7 @@ When asked to move something a few inches, say, “Leave it with me.”
 
 **Bit**
 
-Before using the photocopier, say, “Don’t worry—I know a person.”
+When a colleague is waiting to use the photocopier, step up to it and say, “Don’t worry—I know a person.”
 
 ---
 
@@ -272,7 +272,7 @@ Before using the photocopier, say, “Don’t worry—I know a person.”
 
 **Bit**
 
-Before attaching a document to an email, say, “Let me work my magic.”
+When a colleague asks you to attach a document to an email, say, “Let me work my magic.”
 
 ---
 
@@ -294,7 +294,7 @@ When asked to close a window, say, “I’ll see what I can do.”
 
 **Bit**
 
-Before switching on a light, say, “I can make some calls.”
+When a colleague asks you to switch on a light, say, “I can make some calls.”
 
 ---
 
@@ -327,7 +327,7 @@ When asked to put something on a shelf, say, “I’ll take it upstairs.”
 
 **Bit**
 
-Before using a stapler, say, “We have the technology.”
+When using a stapler in front of a colleague, say, “We have the technology.”
 
 ---
 
@@ -338,7 +338,7 @@ Before using a stapler, say, “We have the technology.”
 
 **Bit**
 
-Before clearing a paper jam, say, “I’ve dealt with this kind of situation before.”
+When colleagues are waiting for a jammed printer, step forward and say, “I’ve dealt with this kind of situation before.”
 
 ---
 
@@ -360,7 +360,7 @@ When asked to forward an email, sigh and say, “It won’t be easy.”
 
 **Bit**
 
-Before changing a filename, say, “I’m going to need a few minutes.”
+When someone asks you to rename a file, say, “I’m going to need a few minutes.”
 
 ---
 
@@ -371,7 +371,7 @@ Before changing a filename, say, “I’m going to need a few minutes.”
 
 **Bit**
 
-Before opening Outlook, say, “Fortunately, I have contacts.”
+When someone asks whether you can find a colleague’s details, open Outlook and say, “Fortunately, I have contacts.”
 
 ---
 
@@ -382,7 +382,7 @@ Before opening Outlook, say, “Fortunately, I have contacts.”
 
 **Bit**
 
-Immediately after pressing Send, say, “I’ve expedited it.”
+After sending something on a colleague’s behalf, say, “I’ve expedited it.”
 
 ---
 
@@ -393,7 +393,7 @@ Immediately after pressing Send, say, “I’ve expedited it.”
 
 **Bit**
 
-When walking towards the kettle, say, “The wheels are already in motion.”
+When someone asks you to make tea, start towards the kettle and say, “The wheels are already in motion.”
 
 ---
 
@@ -415,7 +415,7 @@ After borrowing a chair, say, “I’ve secured the necessary approvals.”
 
 **Bit**
 
-After successfully opening stubborn packaging, say, “We got it over the line.”
+After opening stubborn packaging for someone, hand it back and say, “We got it over the line.”
 
 ---
 
@@ -426,7 +426,7 @@ After successfully opening stubborn packaging, say, “We got it over the line.�
 
 **Bit**
 
-After replacing the printer paper, say, “There were complications, but we prevailed.”
+After replacing the printer paper for waiting colleagues, say, “There were complications, but we prevailed.”
 
 ---
 
@@ -437,7 +437,7 @@ After replacing the printer paper, say, “There were complications, but we prev
 
 **Bit**
 
-After fixing something with sticky tape, say, “I’ve deployed a workaround.”
+After fixing a colleague’s minor problem with sticky tape, say, “I’ve deployed a workaround.”
 
 ---
 
@@ -888,7 +888,7 @@ Whenever attaching an ordinary file, refer to it as “the supporting dossier.�
 
 **Bit**
 
-After correcting a typo, announce, “The record has been amended.”
+After correcting a typo in a document someone else can see, announce, “The record has been amended.”
 
 ---
 
@@ -1053,7 +1053,7 @@ Write “BREAKING” in the group chat before announcing that biscuits have arri
 
 **Bit**
 
-After posting an ordinary message in Teams or Slack, say, “I’ve issued a communiqué.”
+After posting an ordinary message in Teams or Slack, tell nearby colleagues, “I’ve issued a communiqué.”
 
 ---
 
@@ -1075,7 +1075,7 @@ When someone makes tea, say, “Good. Morale was becoming an issue.”
 
 **Bit**
 
-When you discover fresh coffee, announce, “Production has resumed.”
+When you discover fresh coffee while other people are in the kitchen, announce, “Production has resumed.”
 
 ---
 
@@ -1086,7 +1086,7 @@ When you discover fresh coffee, announce, “Production has resumed.”
 
 **Bit**
 
-When the kettle boils, say, “We have achieved temperature.”
+When waiting beside the kettle with a colleague, wait for it to boil and say, “We have achieved temperature.”
 
 ---
 
@@ -1119,7 +1119,7 @@ When presented with a selection of biscuits, inspect them and say, “A strong p
 
 **Bit**
 
-When the milk carton is empty, announce, “We have a supply-chain event.”
+When you discover the milk carton is empty while someone else is in the kitchen, announce, “We have a supply-chain event.”
 
 ---
 
@@ -1130,7 +1130,7 @@ When the milk carton is empty, announce, “We have a supply-chain event.”
 
 **Bit**
 
-When fresh milk arrives, announce, “Business continuity has been restored.”
+When bringing fresh milk into the office kitchen, announce to everyone there, “Business continuity has been restored.”
 
 ---
 
@@ -1141,7 +1141,7 @@ When fresh milk arrives, announce, “Business continuity has been restored.”
 
 **Bit**
 
-When looking into an empty office fridge, say, “They’ve cleared the site.”
+When a colleague opens the office fridge and you both find it empty, say, “They’ve cleared the site.”
 
 ---
 
@@ -1185,7 +1185,7 @@ When someone chooses a mug, say, “That’s one of our stronger vessels.”
 
 **Bit**
 
-After making instant coffee, say, “It’s not glamorous, but it’s scalable.”
+After making instant coffee in front of a colleague, say, “It’s not glamorous, but it’s scalable.”
 
 ---
 
@@ -1196,7 +1196,7 @@ After making instant coffee, say, “It’s not glamorous, but it’s scalable.�
 
 **Bit**
 
-When toast pops out of the toaster, say, “Right on schedule.”
+When toast pops out while someone else is in the kitchen, say, “Right on schedule.”
 
 ---
 
@@ -1218,7 +1218,7 @@ When someone spills a tiny amount of water, announce, “Containment has failed.
 
 **Bit**
 
-After wiping up a small spill, say, “The incident is now closed.”
+After wiping up a small spill that colleagues witnessed, say, “The incident is now closed.”
 
 ---
 
@@ -1251,7 +1251,7 @@ When someone returns from lunch, ask, “Was the mission successful?”
 
 **Bit**
 
-When a takeaway delivery arrives, announce, “The external consultants are here.”
+When a takeaway delivery arrives for the team, announce, “The external consultants are here.”
 
 ---
 
@@ -1262,7 +1262,7 @@ When a takeaway delivery arrives, announce, “The external consultants are here
 
 **Bit**
 
-Hold a banana to your ear and say, “I’m afraid I have to take this.”
+In view of your colleagues, hold a banana to your ear and say, “I’m afraid I have to take this.”
 
 ---
 
@@ -1284,7 +1284,7 @@ Occasionally end a mundane instruction with “Amen,” then continue as though 
 
 **Bit**
 
-When the printer works on the first attempt, say, “We are witnessing history.”
+When the printer works on the first attempt in front of waiting colleagues, say, “We are witnessing history.”
 
 ---
 
@@ -1295,7 +1295,7 @@ When the printer works on the first attempt, say, “We are witnessing history.�
 
 **Bit**
 
-When the printer fails, say, “It has rejected the proposal.”
+When the printer fails while someone is waiting for it, say, “It has rejected the proposal.”
 
 ---
 
@@ -1306,7 +1306,7 @@ When the printer fails, say, “It has rejected the proposal.”
 
 **Bit**
 
-Before pressing Print, say, “Let’s see if it accepts the offering.”
+When a colleague is waiting for you to print something, pause before pressing Print and say, “Let’s see if it accepts the offering.”
 
 ---
 
@@ -1317,7 +1317,7 @@ Before pressing Print, say, “Let’s see if it accepts the offering.”
 
 **Bit**
 
-When a printed page emerges, announce, “The documents have been released.”
+When a colleague is watching the printer and a page emerges, announce, “The documents have been released.”
 
 ---
 
@@ -1350,7 +1350,7 @@ Whenever referring to the shredder, call it “Records Management.”
 
 **Bit**
 
-Before using a stapler, ask, “Is this the approved fastening solution?”
+Before using a stapler in front of someone, ask, “Is this the approved fastening solution?”
 
 ---
 
@@ -1372,7 +1372,7 @@ When handing someone a pen, say, “Use it wisely.”
 
 **Bit**
 
-When a pen runs out, hold it solemnly and say, “It gave everything.”
+When a pen runs out as you are writing in front of a colleague, hold it solemnly and say, “It gave everything.”
 
 ---
 
@@ -1383,7 +1383,7 @@ When a pen runs out, hold it solemnly and say, “It gave everything.”
 
 **Bit**
 
-After testing a pen, nod seriously and say, “It’s operational.”
+When someone asks whether a pen works, test it, nod seriously and say, “It’s operational.”
 
 ---
 
@@ -1405,7 +1405,7 @@ When someone borrows your scissors, say, “Bring them home safely.”
 
 **Bit**
 
-Whenever you see an unusually large paperclip, describe it as “industrial grade.”
+When a colleague shows you an unusually large paperclip, describe it as “industrial grade.”
 
 ---
 
@@ -1416,7 +1416,7 @@ Whenever you see an unusually large paperclip, describe it as “industrial grad
 
 **Bit**
 
-When plugging in a laptop, say, “Commencing life support.”
+When plugging in your laptop beside a colleague, say, “Commencing life support.”
 
 ---
 
@@ -1427,7 +1427,7 @@ When plugging in a laptop, say, “Commencing life support.”
 
 **Bit**
 
-When the Wi-Fi reconnects, announce, “We’re back on the grid.”
+When the office Wi-Fi reconnects after an outage, announce to nearby colleagues, “We’re back on the grid.”
 
 ---
 
@@ -1449,7 +1449,7 @@ When an IT colleague fixes a minor problem, say, “You’ve saved more than you
 
 **Bit**
 
-When turning something off and on fixes it, say, “The ancient protocol remains effective.”
+After fixing a colleague’s problem by turning something off and on again, say, “The ancient protocol remains effective.”
 
 ---
 
@@ -1493,7 +1493,7 @@ When someone asks to borrow a charger, lower your voice and ask, “What connect
 
 **Bit**
 
-Whenever plugging in an HDMI cable, refer to it as “the final link.”
+When connecting a laptop to a meeting-room display, hold up the HDMI cable and say, “The final link.”
 
 ---
 
@@ -1559,7 +1559,7 @@ Whenever someone puts on their coat, ask, “Going somewhere?”
 
 **Bit**
 
-At the end of the working day, say, “Another one for the history books.”
+As you and your remaining colleagues prepare to leave at the end of the working day, say, “Another one for the history books.”
 
 ---
 
@@ -1592,7 +1592,7 @@ When only you and one colleague remain in the office, say, “We’re the last l
 
 **Bit**
 
-On Monday morning, say, “I see we’ve all been recalled.”
+On Monday morning, once the team has gathered, say, “I see we’ve all been recalled.”
 
 ---
 
@@ -1603,7 +1603,7 @@ On Monday morning, say, “I see we’ve all been recalled.”
 
 **Bit**
 
-On Friday afternoon, announce, “Extraction is imminent.”
+On Friday afternoon, when colleagues begin packing up, announce, “Extraction is imminent.”
 
 ---
 
@@ -1713,7 +1713,7 @@ When someone changes seats, call it “a resource reallocation.”
 
 **Bit**
 
-When tidying the office kitchen, announce, “This is a cross-functional initiative.”
+When tidying the office kitchen with a colleague, announce, “This is a cross-functional initiative.”
 
 ---
 
@@ -1724,7 +1724,7 @@ When tidying the office kitchen, announce, “This is a cross-functional initiat
 
 **Bit**
 
-When taking the stairs instead of the lift, say, “We’re using the manual contingency.”
+When taking the stairs with a colleague instead of the lift, say, “We’re using the manual contingency.”
 
 ---
 
@@ -1735,7 +1735,7 @@ When taking the stairs instead of the lift, say, “We’re using the manual con
 
 **Bit**
 
-When going for a walk around the block, announce, “I’m heading off-site.”
+Before going for a walk around the block, announce to your colleagues, “I’m heading off-site.”
 
 ---
 
@@ -1790,7 +1790,7 @@ When someone loses a borrowed pen, call it “an asset-tracking discrepancy.”
 
 **Bit**
 
-On casual Friday, announce, “The relaxed governance window is now open.”
+On casual Friday, once colleagues have gathered, announce, “The relaxed governance window is now open.”
 
 ---
 
@@ -1801,7 +1801,7 @@ On casual Friday, announce, “The relaxed governance window is now open.”
 
 **Bit**
 
-When discovering a broken chair, announce, “We have a seating continuity risk.”
+When you and a colleague discover a broken chair, announce, “We have a seating continuity risk.”
 
 ---
 
@@ -1812,7 +1812,7 @@ When discovering a broken chair, announce, “We have a seating continuity risk.
 
 **Bit**
 
-When turning up the heating, say, “We’re implementing a thermal strategy pivot.”
+When adjusting the heating in front of colleagues, say, “We’re implementing a thermal strategy pivot.”
 
 ---
 
@@ -1823,7 +1823,7 @@ When turning up the heating, say, “We’re implementing a thermal strategy piv
 
 **Bit**
 
-When ordering pizza, say, “We’ve decided to outsource.”
+When ordering pizza for a group, say, “We’ve decided to outsource.”
 
 ---
 
@@ -1845,7 +1845,7 @@ When accepting someone’s unwanted chips, describe it as “an acquisition.”
 
 **Bit**
 
-When washing a mug, say, “Just carrying out some routine asset maintenance.”
+When a colleague sees you washing a mug, say, “Just carrying out some routine asset maintenance.”
 
 ---
 
@@ -1944,7 +1944,7 @@ Select an ordinary office object as the department’s ceremonial artefact.
 
 **Bit**
 
-Every Friday morning, announce, “Casual protocols are now in effect.”
+Every Friday morning, once colleagues have arrived, announce, “Casual protocols are now in effect.”
 
 ---
 
@@ -1977,7 +1977,7 @@ Maintain a “Days Since Last Biscuit” counter.
 
 **Bit**
 
-Conduct a formal performance review of the temperamental office kettle.
+Conduct a formal performance review of the temperamental office kettle in front of at least one colleague.
 
 ---
 
@@ -1988,7 +1988,7 @@ Conduct a formal performance review of the temperamental office kettle.
 
 **Bit**
 
-Hold a ten-second retirement ceremony whenever a pen runs out.
+When a pen runs out in front of colleagues, hold a ten-second retirement ceremony for it.
 
 ---
 
@@ -2076,7 +2076,7 @@ Ask for verbal sign-off before opening a new packet of biscuits.
 
 **Bit**
 
-Refer to the stationery cupboard exclusively as “Central Stores.”
+Whenever discussing stationery with colleagues, refer to the stationery cupboard exclusively as “Central Stores.”
 
 ---
 
@@ -2109,7 +2109,7 @@ Establish a completely fictional rivalry between two photocopiers.
 
 **Bit**
 
-Treat every arrival of post as though it were a diplomatic pouch.
+When the post arrives in front of colleagues, handle it as though it were a diplomatic pouch.
 
 ---
 
@@ -2164,7 +2164,7 @@ Give a trivial task a secret code name and politely refuse to explain it.
 
 **Bit**
 
-Before starting the microwave, ask, “Are we cleared to proceed?”
+When a colleague is waiting for you to use the microwave, ask before starting it, “Are we cleared to proceed?”
 
 ---
 
@@ -2175,7 +2175,7 @@ Before starting the microwave, ask, “Are we cleared to proceed?”
 
 **Bit**
 
-Whenever automatic lights switch on, look upwards and say, “Thank you.”
+When automatic lights switch on as you enter with a colleague, look upwards and say, “Thank you.”
 
 ---
 
@@ -2186,7 +2186,7 @@ Whenever automatic lights switch on, look upwards and say, “Thank you.”
 
 **Bit**
 
-When the microwave finishes, pat it gently and say, “Outstanding work.”
+When the microwave finishes while a colleague is waiting nearby, pat it gently and say, “Outstanding work.”
 
 ---
 
@@ -2197,7 +2197,7 @@ When the microwave finishes, pat it gently and say, “Outstanding work.”
 
 **Bit**
 
-After successfully printing something, look at the printer and say, “Same time tomorrow.”
+After successfully printing something in front of a colleague, look at the printer and say, “Same time tomorrow.”
 
 ---
 
@@ -2208,7 +2208,7 @@ After successfully printing something, look at the printer and say, “Same time
 
 **Bit**
 
-At precisely 5 p.m., close your laptop and say, “They can’t ask any more of us.”
+At precisely 5 p.m., when colleagues begin preparing to leave, close your laptop and say, “They can’t ask any more of us.”
 
 ---
 
@@ -2318,7 +2318,7 @@ When someone asks whether you have any questions in a meeting, say, “I don’t
 
 **Bit**
 
-Immediately after completely losing your cool over something, say, “Whoa, almost lost my cool there.”
+Immediately after completely losing your cool in front of colleagues, say, “Whoa, almost lost my cool there.”
 
 ---
 
@@ -2351,7 +2351,7 @@ When asked to complete a very straightforward task, sigh and say, “Only becaus
 
 **Bit**
 
-After any minor inconvenience at work, say, “That’s it—Christmas is cancelled.” This is especially effective nowhere near Christmas.
+After any minor inconvenience at work, turn to the nearest colleague and say, “That’s it—Christmas is cancelled.” This is especially effective nowhere near Christmas.
 
 ---
 
@@ -2384,7 +2384,7 @@ When a colleague arrives looking slightly smarter than usual, ask, “So, what t
 
 **Bit**
 
-Whenever something was entirely your fault, say, “I can’t help but feel partially responsible.”
+When colleagues discover that something was entirely your fault, say, “I can’t help but feel partially responsible.”
 
 ---
 
