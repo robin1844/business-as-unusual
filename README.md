@@ -2,7 +2,7 @@
 
 Workplace one-liners for strategic deployment.
 
-Business as Unusual is a small, dependency-free web app that presents 232 workplace comedy directives in a randomised, non-repeating sequence. Each directive has a unique faux-official heading and stable internal ID.
+Business as Unusual is a small, dependency-free web app that presents 195 workplace comedy directives in a randomised, non-repeating sequence. Each directive has a unique faux-official heading and stable internal ID.
 
 ## Features
 

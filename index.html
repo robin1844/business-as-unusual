@@ -66,10 +66,10 @@
 </main>
 <div class="modalback" id="help-backdrop" role="presentation"><div class="modal" role="dialog" aria-modal="true" aria-labelledby="help-title"><button class="closebtn" id="close-help" type="button" aria-label="Close help">×</button><h2 id="help-title">Employee induction</h2><p><strong>Business as Unusual</strong> supplies practical workplace directives for situations in which ordinary professionalism is simply not enough.</p><h3>Operating procedure</h3><ul><li>Use <strong>Next directive</strong> to work through every available directive in a randomly shuffled order.</li><li>Use <strong>Previous</strong> to revisit directives seen during your current visit.</li><li>Select <strong>Favourite</strong> to save a directive. Select it again, or use the × in Favourites, to remove it.</li><li>Select <strong>Hide this</strong> to remove a directive from the main sequence. Restore it at any time from Hidden.</li><li>Use <strong>Submit</strong> to propose a workplace one-liner for Robin’s review.</li></ul><h3>Records management</h3><p>Your favourites and hidden directives are stored in this browser on this device. They will not automatically transfer elsewhere, and clearing browser data may remove them.</p><p class="modal-note">Each directive has a stable internal ID so saved choices remain attached to the correct item when the collection is updated.</p></div></div>
 <div class="toast" id="toast" aria-live="polite"></div>
-<script src="directives.js?v=1.2"></script>
+<script src="directives.js?v=1.3"></script>
 <script>
 "use strict";
-var VERSION="1.2";
+var VERSION="1.3";
 var STORAGE_KEY="business_as_unusual_v1";
 var state={favourites:[],hidden:[],queue:[],queueIndex:0};
 var currentId=null,historyIds=[],historyIndex=-1,toastTimer,lastFocus=null;
